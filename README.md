@@ -5,6 +5,14 @@
 - Shift Awal: I
 - Shift sekarang: c
 
+## Video Penjelasan Kode
+
+Video ini menjelaskan implementasi aplikasi CuacaKita,
+meliputi struktur MVVM, integrasi Open-Meteo API,
+pengelolaan state, dan Local Storage.
+
+Link Video:
+[Klik untuk menonton video](https://youtu.be/wDBHHjO2G-s)
 
 # CuacaKita - Aplikasi Informasi Cuaca Flutter
 
