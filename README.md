@@ -1,3 +1,11 @@
+## Identitas pengembang
+
+- Nama: Yusuf Rafii Ahmad
+- NIM: H1D024049
+- Shift Awal: I
+- Shift sekarang: c
+
+
 # CuacaKita - Aplikasi Informasi Cuaca Flutter
 
 CuacaKita adalah aplikasi informasi cuaca yang dikembangkan menggunakan Flutter dan bahasa pemrograman Dart. Aplikasi mengambil lokasi kota melalui Open-Meteo Geocoding API, kemudian mengambil cuaca aktual dan prakiraan 7 hari melalui Open-Meteo Weather Forecast API.
@@ -186,9 +194,16 @@ Daftar favorit diserialisasi menjadi JSON string dan disimpan menggunakan `Share
 Setelah membuat proyek Flutter dan menyalin isi starter sesuai panduan:
 
 ```bash
+git clone https://github.com/Yurah25/responsi-flutter-cuaca-kita.git
+
+cd responsi-flutter-cuaca-kita
+
 flutter pub get
+
 flutter analyze
+
 flutter test
+
 flutter run
 ```
 
@@ -212,9 +227,3 @@ flutter run
 - Provider package: https://pub.dev/packages/provider
 - Shared Preferences package: https://pub.dev/packages/shared_preferences
 
-## Identitas pengembang
-
-- Nama: **Isi nama lengkap**
-- NIM: **Isi NIM**
-- Program Studi: **Isi program studi**
-- Repository GitHub: **Isi tautan repository setelah dibuat**
